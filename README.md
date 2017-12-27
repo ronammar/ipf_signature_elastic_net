@@ -1,2 +1,2 @@
-# ipf_signature_elastic_net
-Companion code for IPF signature manuscript
+# Code for *Elastic net regularization to define a genomic signature for idiopathic pulmonary fibrosis*
+Companion code for IPF signature manuscript.
